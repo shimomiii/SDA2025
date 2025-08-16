@@ -7,3 +7,5 @@
 ## 正規化係数(alpha)の推移(k=4)
 <img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/0120faa9-ec97-463f-92d1-98807263c1b3" />
 
+## 特徴量の寄与(k=4)
+<img width="593" height="790" alt="image" src="https://github.com/user-attachments/assets/178fc1e4-2884-4d17-badd-58e9afa82505" />
